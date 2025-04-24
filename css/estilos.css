@@ -1,0 +1,10 @@
+body{
+    background: rgb(164, 25, 25);
+}
+#titulo{
+   color: blue;
+}
+.imagen-1{
+    height: auto;
+    width: 100%;
+}
